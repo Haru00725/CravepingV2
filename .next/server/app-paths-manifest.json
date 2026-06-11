@@ -1,0 +1,4 @@
+{
+  "/[cafe_slug]/[table_id]/page": "app/[cafe_slug]/[table_id]/page.js",
+  "/admin/qr/page": "app/admin/qr/page.js"
+}
