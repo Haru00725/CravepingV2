@@ -3,18 +3,5 @@
   "buildCommand": "next build",
   "devCommand": "next dev",
   "installCommand": "npm install",
-  "regions": ["bom1"],
-  "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@supabase-url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase-anon-key",
-    "SUPABASE_SERVICE_ROLE_KEY": "@supabase-service-role-key",
-    "GROQ_API_KEY": "@groq-api-key",
-    "R2_ACCOUNT_ID": "@r2-account-id",
-    "R2_ACCESS_KEY_ID": "@r2-access-key-id",
-    "R2_SECRET_ACCESS_KEY": "@r2-secret-access-key",
-    "R2_BUCKET_NAME": "@r2-bucket-name",
-    "R2_PUBLIC_URL": "@r2-public-url",
-    "QR_SECRET": "@qr-secret",
-    "NEXT_PUBLIC_APP_URL": "@app-url"
-  }
+  "regions": ["bom1"]
 }
