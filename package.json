@@ -17,7 +17,7 @@
     "qrcode": "^1.5.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "sharp": "^0.35.0"
+    "sharp": "^0.35.1"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -29,5 +29,21 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "description": "Video-first digital menu SaaS for Indian cafés and restaurants.",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haru00725/CravepingV2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haru00725/CravepingV2/issues"
+  },
+  "homepage": "https://github.com/Haru00725/CravepingV2#readme"
 }
