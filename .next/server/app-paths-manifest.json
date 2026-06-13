@@ -1,11 +1,4 @@
 {
-  "/api/dishes/route": "app/api/dishes/route.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/api/cafes/route": "app/api/cafes/route.js",
-  "/api/orders/route": "app/api/orders/route.js",
-  "/api/qr/route": "app/api/qr/route.js",
-  "/api/upload/route": "app/api/upload/route.js",
-  "/[cafe_slug]/page": "app/[cafe_slug]/page.js",
-  "/page": "app/page.js",
-  "/admin/qr/page": "app/admin/qr/page.js"
+  "/[cafe_slug]/[table_id]/page": "app/[cafe_slug]/[table_id]/page.js"
 }
