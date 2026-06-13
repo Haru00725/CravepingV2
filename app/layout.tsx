@@ -1,11 +1,15 @@
-// app/layout.tsx
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: "CravePing",
-  description: "Video-first digital menu for modern cafés",
-  viewport: "width=device-width, initial-scale=1, maximum-scale=1",
+  description: "Video-first digital menus for modern cafés",
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
   themeColor: "#f5f2e8",
 };
 
